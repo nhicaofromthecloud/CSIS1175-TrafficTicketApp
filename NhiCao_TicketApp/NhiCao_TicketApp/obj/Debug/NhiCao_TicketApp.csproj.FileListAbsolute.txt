@@ -1,0 +1,8 @@
+C:\Users\Trang Ton Nguyen\Desktop\NhiCao_Practicemidterm\NhiCao_TicketApp\NhiCao_TicketApp\obj\Debug\NhiCao_TicketApp.csproj.AssemblyReference.cache
+C:\Users\Trang Ton Nguyen\Desktop\NhiCao_Practicemidterm\NhiCao_TicketApp\NhiCao_TicketApp\obj\Debug\NhiCao_TicketApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trang Ton Nguyen\Desktop\NhiCao_Practicemidterm\NhiCao_TicketApp\NhiCao_TicketApp\obj\Debug\NhiCao_TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\Trang Ton Nguyen\Desktop\NhiCao_Practicemidterm\NhiCao_TicketApp\NhiCao_TicketApp\bin\Debug\NhiCao_TicketApp.exe.config
+C:\Users\Trang Ton Nguyen\Desktop\NhiCao_Practicemidterm\NhiCao_TicketApp\NhiCao_TicketApp\bin\Debug\NhiCao_TicketApp.exe
+C:\Users\Trang Ton Nguyen\Desktop\NhiCao_Practicemidterm\NhiCao_TicketApp\NhiCao_TicketApp\bin\Debug\NhiCao_TicketApp.pdb
+C:\Users\Trang Ton Nguyen\Desktop\NhiCao_Practicemidterm\NhiCao_TicketApp\NhiCao_TicketApp\obj\Debug\NhiCao_TicketApp.exe
+C:\Users\Trang Ton Nguyen\Desktop\NhiCao_Practicemidterm\NhiCao_TicketApp\NhiCao_TicketApp\obj\Debug\NhiCao_TicketApp.pdb
